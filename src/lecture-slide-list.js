@@ -44,24 +44,30 @@ export class LectureSlideList extends LitElement {
 
   connectedCallback() {
     super.connectedCallback();
-    fetch('./assets/channels.json')
+    if (!this.lectureSlides) {
+      fetch('./assets/channels.json')
       .then(response => response.json())
       .then(data => {
         this.lectureSlides = data[0].timeslots;
+        this.activeSlide = 0;
+      })
+      .catch(error => {
+        console.error('Error fetching data:', error);
       });
+    }
   }
 
   render() {
     return html`
       <div class="lectureslide-list">
-        ${this.lectureSlides.map((lectureSlide, index) =>
+        ${this.lectureSlides ? this.lectureSlides.map((lectureSlide, index) =>
           html`
             <div class="lectureslide ${index === this.activeSlide ? 'active' : ''}" @click="${() => this.selectLectureSlide(index)}">
               <img src="${lectureSlide.thumbnailUrl}" alt="${lectureSlide.title}">
               <div>${lectureSlide.title}</div>
             </div>
           `
-        )}
+        ) : 'Loading slides...'}
       </div>
     `;
   }
@@ -69,10 +75,11 @@ export class LectureSlideList extends LitElement {
   selectLectureSlide(index) {
     this.activeSlide = index;
     const lectureSlide = this.lectureSlides[index];
-    const videoPlayer = document.querySelector('video');
+    const videoPlayer = document.querySelector('lecture-screen');
 
-    videoPlayer.src = lectureSlide.videoUrl;
-    videoPlayer.currentTime = lectureSlide.startTime;
+    if (videoPlayer) {
+      videoPlayer.setActiveSlide(lectureSlide);
+    }
 
     this.dispatchEvent(new CustomEvent('lecture-slide-selected', { detail: lectureSlide }));
   }
