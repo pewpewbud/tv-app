@@ -15,42 +15,42 @@
         "description": "Description for part 1, topic 1.",
         "startTime": 29,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=NcMiXkmqwMIjmwaT&t=29"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=NcMiXkmqwMIjmwaT&t=29s"
       },
       {
         "title": "Part 1: Topic 2",
         "description": "Description for part 1, topic 2.",
         "startTime": 300,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=Sf7blqDl8jYTlXiX&t=300"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=Sf7blqDl8jYTlXiX&t=300s"
       },
       {
         "title": "Part 2: Topic 1",
         "description": "Description for part 2, topic 1.",
         "startTime": 450,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=m6VRRUHN8B_QAEtk&t=450"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=m6VRRUHN8B_QAEtk&t=450s"
       },
       {
         "title": "Part 2: Topic 2",
         "description": "Description for part 2, topic 2.",
         "startTime": 600,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=phN5UySlJbqudD-R&t=600"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=phN5UySlJbqudD-R&t=600s"
       },
       {
         "title": "Part 3: Topic 1",
         "description": "Description for part 3, topic 1.",
         "startTime": 900,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=zcV4OQHQoLU6ggWT&t=900"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=zcV4OQHQoLU6ggWT&t=900s"
       },
       {
         "title": "Part 3: Topic 2",
         "description": "Description for part 3, topic 2.",
         "startTime": 1200,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=E5F5Sf6jcTUnEVaT&t=1200"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=E5F5Sf6jcTUnEVaT&t=1200s"
       }
     ]
   }
