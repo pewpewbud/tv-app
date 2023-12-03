@@ -8,49 +8,49 @@
         "description": "The future we need, not the future we have.",
         "startTime": 0,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://www.youtube.com/watch?v=CziSKoOTgy4&t=2s"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=VdDz43IrgcR02lSc"
       },
       {
         "title": "Part 1: Topic 1",
         "description": "Description for part 1, topic 1.",
         "startTime": 29,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://www.youtube.com/watch?v=CziSKoOTgy4&t=29s"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=NcMiXkmqwMIjmwaT&t=29"
       },
       {
         "title": "Part 1: Topic 2",
         "description": "Description for part 1, topic 2.",
         "startTime": 300,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://www.youtube.com/watch?v=CziSKoOTgy4&t=298s"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=Sf7blqDl8jYTlXiX&t=300"
       },
       {
         "title": "Part 2: Topic 1",
         "description": "Description for part 2, topic 1.",
         "startTime": 450,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://www.youtube.com/watch?v=CziSKoOTgy4&t=2908s"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=m6VRRUHN8B_QAEtk&t=450"
       },
       {
         "title": "Part 2: Topic 2",
         "description": "Description for part 2, topic 2.",
         "startTime": 600,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://www.youtube.com/watch?v=rqOGpiJizfQ"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=phN5UySlJbqudD-R&t=600"
       },
       {
         "title": "Part 3: Topic 1",
         "description": "Description for part 3, topic 1.",
-        "startTime": 750,
+        "startTime": 900,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://www.youtube.com/watch?v=CziSKoOTgy4&t=2999s"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=zcV4OQHQoLU6ggWT&t=900"
       },
       {
         "title": "Part 3: Topic 2",
         "description": "Description for part 3, topic 2.",
-        "startTime": 900,
+        "startTime": 1200,
         "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://www.youtube.com/watch?v=CziSKoOTgy4&t=500s"
+        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=E5F5Sf6jcTUnEVaT&t=1200"
       }
     ]
   }
