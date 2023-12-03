@@ -1,5 +1,5 @@
 import { LitElement, html, css } from 'lit';
-import "@lrnwebcomponents/video-player/video-player.js";
+import '@lrnwebcomponents/video-player/video-player.js';
 
 export class LectureScreen extends LitElement {
   static get properties() {
@@ -16,12 +16,6 @@ export class LectureScreen extends LitElement {
         justify-content: center;
         align-items: center;
         height: 50vh; 
-      }
-
-      video {
-        width: 100%; 
-        height: 100%;
-        object-fit: contain;
       }
     `;
   }
@@ -63,7 +57,7 @@ export class LectureScreen extends LitElement {
  
   render() {
     return html`
-   <video-player source=${this.videoUrl} accent-color="orange" dark track="https://haxtheweb.org/files/HAXshort.vtt">
+   <video-player source=${this.videoUrl} width=900 height=400 accent-color="orange" dark track="https://haxtheweb.org/files/HAXshort.vtt">
    </video-player>
    `;
   }
