@@ -104,8 +104,8 @@ export class TvApp extends LitElement {
       <div class="app-container">
         <div class="video-section">
           
-      <video-player source="https://www.youtube.com/watch?v=Pu0JawDgkSw" accent-color="blue" dark track="https://haxtheweb.org/files/HAXshort.vtt"></video-player> 
-      <h2>Top 10 best BMW M cars. EVER!</h2>
+      <video-player source="https://youtu.be/aFlromB6SnU?si=S4qjqYTrJ_6TK9vo" accent-color="blue" dark track="https://haxtheweb.org/files/HAXshort.vtt"></video-player> 
+      <h2>Demon Core - The True Story</h2>
       <div class="description-box">
   
                 ${this.channelList.length > 0 ? this.channelList[this.activeIndex].description : ''}
