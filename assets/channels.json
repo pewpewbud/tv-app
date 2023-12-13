@@ -1,57 +1,94 @@
-[
-  {
-    "videoTitle": "HAX: Wordpress Killer",
-    "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=dJVGIvcNWkzqXND_",
-    "timeslots": [
+{
+  "status": 200,
+  "data": {
+    "id": "123",
+    "title": "",
+    "author": "",
+    "description": "",
+    "license": "",
+    "source": "https://www.youtube.com/watch?v=aFlromB6SnU",
+    "metadata": {},
+    "items": [
+
       {
-        "title": "Introduction",
-        "description": "The future we need, not the future we have.",
-        "startTime": 0,
-        "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=jnmg6AUcIuTugRTa"
+        "id": "1",
+        "indent": 0,
+        "order": 0,
+        "parent": null,
+        "title": "The Demon Core",
+        "description": "A descriptive overview of the demon core.",
+        "metadata": {
+          "source": "https://www.youtube.com/watch?v=aFlromB6SnU&t=24s",
+          "timecode": 24,
+          "minuteTranslation": "0:24",
+          "created": 1697033522,
+          "updated": 1697034021
+        }
       },
+
       {
-        "title": "Part 1: Topic 1",
-        "description": "Description for part 1, topic 1.",
-        "startTime": 29,
-        "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=NcMiXkmqwMIjmwaT&t=29s"
+        "id": "2",
+        "indent": 0,
+        "order": 0,
+        "parent": null,
+        "title": "Tickling The Dragon's Tail",
+        "description": "overview of how scientists used a spare demon core to find what it takes to reach critical mass.",
+        "metadata": {
+          "source": "https://www.youtube.com/watch?v=aFlromB6SnU&t=116s",
+          "timecode": 116,
+          "minuteTranslation": "1:56",
+          "created": 1697033522,
+          "updated": 1697034021
+        }
       },
+
       {
-        "title": "Part 1: Topic 2",
-        "description": "Description for part 1, topic 2.",
-        "startTime": 300,
-        "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=Sf7blqDl8jYTlXiX&t=300s"
+        "id": "3",
+        "indent": 0,
+        "order": 0,
+        "parent": null,
+        "title": "The Half-life of Harry Daghlian",
+        "description": "Overview of Harry Daghlian and his experiments with the demon core, as well as his unfortunate mistake.",
+        "metadata": {
+          "source": "https://www.youtube.com/watch?v=aFlromB6SnU&t=261s",
+          "timecode": 261,
+          "minuteTranslation": "4:21",
+          "created": 1697033522,
+          "updated": 1697034021
+        }
       },
+
       {
-        "title": "Part 2: Topic 1",
-        "description": "Description for part 2, topic 1.",
-        "startTime": 450,
-        "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=m6VRRUHN8B_QAEtk&t=450s"
+        "id": "4",
+        "indent": 0,
+        "order": 0,
+        "parent": null,
+        "title": "Nuclear Cowboy",
+        "description": "Overview of Louis Slotin and his experiments with the demon core.",
+        "metadata": {
+          "source": "https://www.youtube.com/watch?v=aFlromB6SnU&t=436s",
+          "timecode": 436,
+          "minuteTranslation": "7:16",
+          "created": 1697033522,
+          "updated": 1697034021
+        }
       },
+
       {
-        "title": "Part 2: Topic 2",
-        "description": "Description for part 2, topic 2.",
-        "startTime": 600,
-        "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=phN5UySlJbqudD-R&t=600s"
-      },
-      {
-        "title": "Part 3: Topic 1",
-        "description": "Description for part 3, topic 1.",
-        "startTime": 900,
-        "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=zcV4OQHQoLU6ggWT&t=900s"
-      },
-      {
-        "title": "Part 3: Topic 2",
-        "description": "Description for part 3, topic 2.",
-        "startTime": 1200,
-        "thumbnailUrl": "URL_TO_THUMBNAIL_IMAGE_INTRODUCTION",
-        "videoUrl": "https://youtu.be/9MT-BNuUCpM?si=E5F5Sf6jcTUnEVaT&t=1200s"
+        "id": "5",
+        "indent": 0,
+        "order": 0,
+        "parent": null,
+        "title": "Final Words",
+        "description": "Overview of the final experiments with the demon core, as well as their grim findings.",
+        "metadata": {
+          "source": "https://www.youtube.com/watch?v=aFlromB6SnU&t=666s",
+          "timecode": 666,
+          "minuteTranslation": "11:06",
+          "created": 1697033522,
+          "updated": 1697034021
+        }
       }
     ]
   }
-]
+}
